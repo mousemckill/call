@@ -1,0 +1,13 @@
+.App {
+  /* text-align: center; */
+  width: 400px;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
